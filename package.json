@@ -1,0 +1,27 @@
+{
+  "name": "node-server-libs",
+  "version": "0.0.1",
+  "description": "A Collection Server Libs for Node Applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/barkayal/node-server-libs.git"
+  },
+  "keywords": [
+    "node",
+    "typescript",
+    "libs"
+  ],
+  "author": "Andrei Iulian Ion",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/barkayal/node-server-libs/issues"
+  },
+  "homepage": "https://github.com/barkayal/node-server-libs#readme",
+  "devDependencies": {
+    "typescript": "^2.9.2"
+  }
+}

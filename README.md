@@ -1,3 +1,3 @@
 # node-server-libs
 
-Node Server Libs
+A Collection Server Libs for Node Applications
